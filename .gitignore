@@ -1,0 +1,12 @@
+# Compiled
+*.pyc
+
+# Environments
+venv/
+
+# Mats
+mats/*
+
+# Others
+.idea/
+TODO.txt
